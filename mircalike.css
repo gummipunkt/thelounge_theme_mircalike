@@ -31,8 +31,10 @@ body,
 .messages .msg,
 .sidebar,
 #windows #form .input {
-	font: 14px "fsex300";
+	font: 16px "fsex300";
 }
+
+/* If you are in channels with large names, you can set the font down to 14px */
 
 i.hostmask {
 	font-size: 100%;

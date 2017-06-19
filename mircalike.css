@@ -73,7 +73,7 @@ body {
 }
 
 #chat .unread-marker-text:before {
-	background-color: #051114;
+	background-color: #ffffff;
 	color: #268bd2;
 }
 

@@ -1,0 +1,25 @@
+{
+  "name": "thelounge-theme-mircalike",
+  "version": "1.0.0",
+  "description": "A mIRC-looking theme for The Lounge",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gummipunkt/thelounge_theme_mircalike.git"
+  },
+  "keywords": [
+    "thelounge",
+    "thelounge-theme"
+  ],
+  "author": "gummipunkt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gummipunkt/thelounge_theme_mircalike/issues"
+  },
+  "homepage": "https://github.com/gummipunkt/thelounge_theme_mircalike#readme",
+  "thelounge": {
+    "css": "mircalike.css",
+    "name": "Mircalike",
+    "type": "theme"
+  }
+}
